@@ -1,24 +1,87 @@
-.menu{
-    display: inline;
-    list-style: none;
-    margin: auto;
+.header {
+    display: flex;
+}
+
+.namecard {
+    margin-top: auto;
+    margin-left: 20px;
+    margin-bottom: auto;
+}
+
+#name {
+    font-size: x-large;
+
+}
+
+.pos {
+    margin-top: 5px;
+    font-size: large;
+}
+
+.navbar {
+    margin-top: 10px;
     background-color: #f2f2f2;
+    padding: 10px 0;
+}
+
+.navbar-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.navbar-content a {
+    color: black;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+img {
+    border: 2px solid;
+    justify-content: left;
+
+}
+
+h3{
+    text-decoration: underline;
     text-align: center;
 }
-img{
-    border: 2px;
-    display: block;
+
+li {
+    text-align: center;
+    justify-content: center;
+    margin: 5px;
+    list-style: none;
+}
+
+.info1{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
     margin-left: auto;
     margin-right: auto;
+    width: 80%;
 }
-h1{
+
+.info2 {
+    display: flex;
+}
+
+.skill {
+    margin-right: 20%;
+    margin-left: auto;
+}
+
+.hobb {
+    margin-right: auto;
+}
+.copyright{
+    
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgb(0, 0, 0);
     text-align: center;
+    color: white;
+    bottom: 0px;
 }
-li{
-    margin: 15px;
-    list-style: none;
-}
-p{
-    display: inline-block;
-    width: 60%;
-}
+
