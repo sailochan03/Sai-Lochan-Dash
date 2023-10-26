@@ -1,21 +1,31 @@
-.header {
+.portion1 {
     display: flex;
 }
 
+.leftpart {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .namecard {
-    margin-top: auto;
-    margin-left: 20px;
-    margin-bottom: auto;
+    text-align: center;
 }
 
 #name {
     font-size: x-large;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
 .pos {
     margin-top: 5px;
     font-size: large;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .navbar {
@@ -26,23 +36,23 @@
 
 .navbar-content {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    margin-left: 10%;
 
 }
+
 .navbar-content a {
     color: black;
     text-decoration: none;
     margin: 0 15px;
 }
 
-img {
-    border: 2px solid;
-    justify-content: left;
-
+.pfp img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
 }
 
-h3{
+h3 {
     text-decoration: underline;
     text-align: center;
 }
@@ -54,13 +64,18 @@ li {
     list-style: none;
 }
 
-.info1{
+.intro {
+    width: 60%;
+    margin-top: 5%;
+}
+
+.info1 {
     text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 60%;
 }
 
 .info2 {
@@ -75,13 +90,45 @@ li {
 .hobb {
     margin-right: auto;
 }
-.copyright{
-    
+
+.copyright {
+
     padding-top: 8px;
     padding-bottom: 8px;
-    background-color: rgb(0, 0, 0);
+    position: fixed;
     text-align: center;
-    color: white;
-    bottom: 0px;
+    color: black;
+    bottom: 0;
 }
 
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: larger;
+}
+
+.back {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.back a {
+
+    justify-content: center;
+    font-size: large;
+    color: blue;
+    text-decoration: none;
+    border: 2px solid blue;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: larger;
+}
