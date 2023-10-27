@@ -168,19 +168,5 @@ img{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: large;
 }
-.back{
-    text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-.back a{
-    
-    justify-content: center;
-    font-size: large;
-    color:blue;
-    text-decoration: none;
-    border:2px solid blue;
-    text-align: center;
-}
 
 
