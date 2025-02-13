@@ -1,6 +1,6 @@
 /* GENERAL */
 
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
 
 * {
   margin: 0;
@@ -8,8 +8,8 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
-  background-color: #FFFFFF;
+  font-family: 'Poppins', sans-serif;
+  background-color: #ffffff;
 }
 
 html {
@@ -176,7 +176,7 @@ section {
   width: 400px;
   margin: auto 0;
 }
-.section__pic-container img{
+.section__pic-container img {
   border-radius: 50%;
   border: rgb(53, 53, 53) 0.2rem solid;
 }
@@ -234,17 +234,19 @@ section {
   border-radius: 2rem;
 }
 
-.btn-color-1, .btn-color-2{
+.btn-color-1,
+.btn-color-2 {
   color: black;
   border: rgb(53, 53, 53) 0.1rem solid;
   background-color: white;
 }
-.btn-color-1:hover ,.btn-color-2:hover{
+.btn-color-1:hover,
+.btn-color-2:hover {
   cursor: pointer;
-  background-color:rgb(53, 53, 53);
+  background-color: rgb(53, 53, 53);
   color: white;
 }
-.btn-container{
+.btn-container {
   gap: 1rem;
 }
 
@@ -404,10 +406,11 @@ article .icon {
   height: 2.5rem;
 }
 
-.email-icon{
+.email-icon {
   height: 3.5rem;
 }
-.lin-icon, .git-icon{
+.lin-icon,
+.git-icon {
   height: 3rem;
 }
 
