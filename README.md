@@ -1,12 +1,9 @@
-## Sai Lochan's Personal Portfolio
+# Sai Lochan's Personal Portfolio
 
 Welcome to my personal portfolio website repository!
-
-## About
-
 This website showcases my projects and includes links to them. You can also visit my website to view my CV and get detailed information about my work.
 
-## Features
+## Content
 
 - Links to my projects
 - Access to my CV
@@ -20,5 +17,5 @@ This website showcases my projects and includes links to them. You can also visi
 
 Feel free to reach out for collaborations or inquiries!
 
-[Email](mailto:dsailochan@gmail.com)
+[Email](mailto:work.sailochandash@gmail.com)
 [LinkedIn](https://linkedin.com/in/sailochandash)
